@@ -6,6 +6,8 @@ An HR database is a system where you store and manage data on your company’s e
 
 List of tables in the hospital database:
 
+Employees, Departments, Locations, Countries, Jobs, Job_History, Regions.
+
 
 ER-Diagram:
 
