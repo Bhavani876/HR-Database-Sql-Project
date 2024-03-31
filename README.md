@@ -4,6 +4,8 @@ Database Description:-
 
 An HR database is a system where you store and manage data on your company’s employees. HR databases can be used to track a variety of information, including HR metrics, which give the HR team insights for better decision-making. 
 
+List of tables in the hospital database:
+
 
 ER-Diagram:
 
